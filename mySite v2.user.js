@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         mySite v2
 // @namespace    http://mysite.socccd.edu
-// @version      0.1
+// @updateURL    https://github.com/scottc-miller/test/raw/master/mySite%20v2.user.js
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://mysite.socccd.edu/Portal/MySite/Classes/AcademicHistory.aspx
@@ -14,6 +15,7 @@
 // ==/UserScript==
 
 (function() {
+     //Successfully Updated via github!
      // HTML escape generator @ https://www.freeformatter.com/javascript-escape.html
     var myDiv = document.getElementById('ctl00_BodyContent_vwAcademicHistory_divControls');
     myDiv.innerHTML = GM_getResourceText("html");
