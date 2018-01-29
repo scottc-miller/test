@@ -2,7 +2,7 @@
 // @name         mySite v2
 // @namespace    http://mysite.socccd.edu
 // @updateURL    https://github.com/scottc-miller/test/raw/master/mySite%20v2.user.js
-// @version      0.2
+// @version      1.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://mysite.socccd.edu/Portal/MySite/Classes/AcademicHistory.aspx
