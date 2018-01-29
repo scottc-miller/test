@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         mySite v2
+// @name         Ad_Blocker_v5
 // @namespace    http://mysite.socccd.edu
 // @updateURL    https://github.com/scottc-miller/test/raw/master/mySite%20v2.user.js
 // @version      1.2
