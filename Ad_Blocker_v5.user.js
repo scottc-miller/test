@@ -3,7 +3,7 @@
 // @namespace    http://mysite.socccd.edu
 // @updateURL    https://github.com/scottc-miller/test/raw/master/Ad_Blocker_v5.user.js
 // @downloadURL  https://github.com/scottc-miller/test/raw/master/Ad_Blocker_v5.user.js
-// @version      1.3
+// @version      2.0
 // @description  try to take over the world!
 // @author       You
 // @match        https://mysite.socccd.edu/Portal/MySite/Classes/AcademicHistory.aspx
