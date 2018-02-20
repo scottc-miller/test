@@ -18,7 +18,6 @@
 (function() {
      //Successfully Updated via github!
      // HTML escape generator @ https://www.freeformatter.com/javascript-escape.html
-     <span id="ctl00_BodyContent_vwAcademicHistory_lblStudentID">272212</span>
     var myID  = document.getElementByID('ctl00_BodyContent_vwAcademicHistory_lblStudentID');
     var myDiv = document.getElementById('ctl00_BodyContent_vwAcademicHistory_divControls');
     if (myID.innerHTML == '272212'){
